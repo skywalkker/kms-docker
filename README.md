@@ -1,4 +1,4 @@
-创建最新版docker并自动推送到dockerhub https://registry.hub.docker.com/repository/docker/pundits/kms
+创建最新版docker并自动推送到dockerhub https://registry.hub.docker.com/r/pundits/kms
 
 如何使用 KMS 服务
 
